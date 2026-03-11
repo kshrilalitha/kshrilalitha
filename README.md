@@ -1,9 +1,9 @@
- # Hi 👋 I'm Shrilalitha
+# Hi 👋 I'm Shri Lalitha
 
-🎓 Computer Science Engineering Student  
+🎓 2nd year Computer Science Engineering Student  
 💻 Currently learning Data Structures and Algorithms  
-🚀 Interested in AI, Backend Development and Problem Solving
-
+🌐 Exploring Web Development  
+🚀 Interested in AI and Problem Solving
 ---
 
 ## 🧠 Currently Learning
