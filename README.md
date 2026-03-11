@@ -38,7 +38,7 @@ C | HTML | Java | Python | GitHub
 ---
 
 ## 📈 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kshrilalitha)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kshrilalitha&theme=react-dark)
 <!--
 **kshrilalitha/kshrilalitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
