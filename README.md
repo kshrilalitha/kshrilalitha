@@ -18,10 +18,12 @@
 C | HTML | Java | Python | GitHub
 
 ---
+
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-shri-lalitha-reddy-0aa82233a)
-[![Email](https://img.shields.io/badge/Email-blue?logo=gmail&logoColor=white)](mailto:shreelalithar@gmail.com
+
+[![Email](https://img.shields.io/badge/Email-blue?logo=gmail&logoColor=white)](mailto:shreelalithar@gmail.com)
 
 ---
 
