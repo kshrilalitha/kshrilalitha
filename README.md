@@ -22,6 +22,15 @@
 
 ---
 
+## 🚀 DSA Journey
+
+- 📚 Platform: LeetCode
+- 💻 Language: C
+- 🧠 Problems Solved: 2
+- 🎯 Goal: 200+ Problems
+
+ ---
+
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-shri-lalitha-reddy-0aa82233a)
