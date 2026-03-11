@@ -14,15 +14,17 @@
 
 ---
 
-## 🛠 Tech Stack
-C | HTML | Java | Python | GitHub
+## 🖥️ Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,python,java,html,css,git,github" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-shri-lalitha-reddy-0aa82233a)
-
 [![Email](https://img.shields.io/badge/Email-blue?logo=gmail&logoColor=white)](mailto:shreelalithar@gmail.com)
 
 ---
