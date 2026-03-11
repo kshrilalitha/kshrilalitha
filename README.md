@@ -1,9 +1,10 @@
 # Hi 👋 I'm Shri Lalitha
 
-🎓 2nd year Computer Science Engineering Student  
-💻 Currently learning Data Structures and Algorithms  
-🌐 Exploring Web Development  
-🚀 Interested in AI and Problem Solving
+- 🎓 2nd year Computer Science Engineering Student  
+- 💻 Currently learning Data Structures and Algorithms  
+- 🌐 Exploring Web Development  
+- 🚀 Interested in AI and Problem Solving
+  
 ---
 
 ## 🧠 Currently Learning
