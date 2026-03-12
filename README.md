@@ -10,7 +10,7 @@
 ## 🧠 Currently Learning
 - Data Structures
 - Algorithms
-- CSS
+- JavaScript
 - SQL
 
 ---
@@ -18,7 +18,7 @@
 ## 🖥️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,python,java,html,github" />
+<img src="https://skillicons.dev/icons?i=c,python,java,html,css,github" />
 </p>
 
 ---
