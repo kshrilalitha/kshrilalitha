@@ -27,7 +27,6 @@
 
 - 📚 Platform: LeetCode
 - 💻 Language: C
-- 🧠 Problems Solved: 2
 - 🎯 Goal: 200+ Problems
 
  ---
