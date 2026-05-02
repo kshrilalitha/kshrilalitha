@@ -39,12 +39,12 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kshrilalitha)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kshrilalitha&show_icons=true&theme=radical&count_private=true)
 
 ---
 
 ## 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kshrilalitha&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshrilalitha&layout=compact&theme=radical)
 
 ---
 
