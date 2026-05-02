@@ -39,7 +39,7 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kshrilalitha&show_icons=true&theme=radical&count_private=true)
+![GitHub stats](https://github-readme-stats-three-pi-44.vercel.app/api?username=kshrilalitha)
 
 ---
 
