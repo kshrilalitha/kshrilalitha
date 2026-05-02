@@ -39,7 +39,7 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats-three-pi-44.vercel.app/api?username=kshrilalitha)
+![GitHub stats](https://github-readme-stats-three-pi-44.vercel.app/api?username=kshrilalitha&layout=compact&theme=radical)
 
 ---
 
