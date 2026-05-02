@@ -44,7 +44,7 @@
 ---
 
 ## 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshrilalitha&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-three-pi-44.vercel.app/api/top-langs/?username=kshrilalitha&layout=compact&theme=radical)
 
 ---
 
